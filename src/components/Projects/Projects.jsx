@@ -107,6 +107,23 @@ const Projects = () => {
               </Row>
             );
           })}
+          <Title title="Blogs" />
+          <Row key="blogs">
+            <Col>
+            <Fade
+            right={isDesktop}
+            bottom={isMobile}
+            duration={1000}
+            delay={1000}
+            distance="30px">
+              <h1>I enjoy writing technical blogs and document my learnings. Do check them out
+                <a target="_blank"
+                        rel="noopener noreferrer"
+                        className="cta-btn cta-btn--hero"
+                       target="_blank" href="https://kumarshivam.hashnode.dev/">here</a></h1>
+            </Fade>
+            </Col>
+          </Row>
         </div>
       </Container>
     </section>
