@@ -39,6 +39,15 @@ export const projectsData = [
   },
   {
     id: nanoid(),
+    img: 'trekkart.png',
+    title: 'Trekkart',
+    info: 'Ecommerce app made in MERN Stack, with cart, wishlist, product details page',
+    info2: '',
+    url: 'https://trekkart.netlify.app/',
+    repo: 'https://github.com/kshivam99/Ecommerce/tree/development', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: 'codesplash.png',
     title: 'CodeSplash',
     info: `This is an educational website consisting of curated playlists to learn any technology, Users can also create their custom playlist and manage them, They can add notes to each video in a particular timestamp to remember some important
