@@ -23,7 +23,7 @@ export const aboutData = {
   Redux-Toolkit. I mostly spend my day thinking about some new project and my night coding them.`,
   paragraphTwo: 'Currently I am learning Next Js, GraphQl and React Native',
   paragraphThree: ``,
-  resume: 'https://drive.google.com/file/d/1weN5jWUeeD7Q7uc8G7Q7IdRwhak0Kyaz/view', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/1eQFrbluAZF6lRwI8T8CK1l3-R2m3fHP8/view', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
